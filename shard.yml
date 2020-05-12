@@ -1,0 +1,14 @@
+name: diff
+version: 0.1.0
+
+authors:
+  - Chris Watson <cawatson1993@gmail.com>
+
+dependencies:
+  cor:
+    github: watzon/cor
+    branch: master
+
+crystal: 0.34.0
+
+license: MIT
